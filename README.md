@@ -17,13 +17,13 @@ Each module is a standalone HTML file that opens directly in your web browser �
 | Module | Title | Materials |
 |--------|-------|-----------|
 | 1 | Introduction & Theoretical Foundations | [Slides](https://peterdmarshall01.github.io/ReSourcesYork/Module1.html) |
-| 2 | Understanding Mixing Models | [Slides](https://peterdmarshall01.github.io/ReSourcesYork/Module2.html) |
-| 3 | Baseline Isotopic Data | [Slides](https://peterdmarshall01.github.io/ReSourcesYork/Module3.html) |
-| 4 | From Measured Collagen to Dietary Source Values | [Slides](https://peterdmarshall01.github.io/ReSourcesYork/Module4.html) |
-| 5 | Resources: Worked Examples | [Slides](https://peterdmarshall01.github.io/ReSourcesYork/Module5.html) |
-| 6 | Evaluating Dietary Mixing Model Choices | [Slides](https://peterdmarshall01.github.io/ReSourcesYork/Module6.html) |
-| 7 | Resources: Full Examples — Varna, Bulgaria | [Slides](https://peterdmarshall01.github.io/ReSourcesYork/Module7.html) |
-| 8 | Dietary Modelling at Varna: A Methodological Critique | [Slides](https://peterdmarshall01.github.io/ReSourcesYork/Module8.html) |
+| 2 | Understanding Mixing Models | [Slides](https://peterdmarshall01.github.io/ResourcesYork/Module2.html) |
+| 3 | Baseline Isotopic Data | [Slides](https://peterdmarshall01.github.io/ResourcesYork/Module3.html) |
+| 4 | From Measured Collagen to Dietary Source Values | [Slides](https://peterdmarshall01.github.io/ResourcesYork/Module4.html) |
+| 5 | Resources: Worked Examples | [Slides](https://peterdmarshall01.github.io/ResourcesYork/Module5.html) |
+| 6 | Evaluating Dietary Mixing Model Choices | [Slides](https://peterdmarshall01.github.io/ResourcesYork/Module6.html) |
+| 7 | Resources: Full Examples — Varna, Bulgaria | [Slides](https://peterdmarshall01.github.io/ResourcesYork/Module7.html) |
+| 8 | Dietary Modelling at Varna: A Methodological Critique | [Slides](https://peterdmarshall01.github.io/ResourcesYork/Module8.html) |
 
 ---
 
