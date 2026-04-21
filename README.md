@@ -1,6 +1,7 @@
 # One-Day Training Programme: Stable Isotope Mixing Models for Dietary Reconstruction
 
-A self-contained training programme providing a grounding in the theory and practice of stable isotope mixing models applied to dietary reconstruction in archaeological science. All materials are based on the Driffield Terrace, York assemblage as a worked case study.
+A self-contained training programme providing a grounding in the theory and practice of stable isotope mixing models applied to dietary reconstruction in archaeological science.
+All materials are based on the Chalcolithic cemetery, Varna, Bulgaria as a worked case study.
 
 ---
 
@@ -49,7 +50,7 @@ This module moves from the mechanics of source preparation (Module 4) to the cri
 and what are the consequences of that choice?  We take as our central case study the  dietary modelling in Gaydarska et al. (2025), which applies FRUITS to the Chalcolithic cemetery of Varna, Bulgaria.
 
 **Module 7 — Resources: Full Examples — Varna, Bulgaria**
-Complete case study analyses using data from the Varna  Chalcolithic cemetery, Bulgaria, demonstrating the full workflow from raw measurements to dietary interpretation.
+Complete case study analyses using data from the Varna Chalcolithic cemetery, Bulgaria, demonstrating the full workflow from raw measurements to dietary interpretation.
 
 **Module 8 — Dietary Modelling at Varna: A Methodological Critique — Evaluation and a path forward**
 An evaluation and suggested way forward to undertake dietary modelling to the Chalcolithic cemetery of Varna, Bulgaria.
