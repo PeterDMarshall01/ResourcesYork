@@ -16,7 +16,7 @@ Each module is a standalone HTML file that opens directly in your web browser â€
 
 | Module | Title | Materials |
 |--------|-------|-----------|
-| 1 | Introduction & Theoretical Foundations | [Slides](https://peterdmarshall01.github.io/ReSourcesYork/Module1.html) |
+| 1 | Introduction & Theoretical Foundations | [Slides](https://peterdmarshall01.github.io/ResourcesYork/Module1.html) |
 | 2 | Understanding Mixing Models | [Slides](https://peterdmarshall01.github.io/ResourcesYork/Module2.html) |
 | 3 | Baseline Isotopic Data | [Slides](https://peterdmarshall01.github.io/ResourcesYork/Module3.html) |
 | 4 | From Measured Collagen to Dietary Source Values | [Slides](https://peterdmarshall01.github.io/ResourcesYork/Module4.html) |
