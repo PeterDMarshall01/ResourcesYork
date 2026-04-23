@@ -23,7 +23,7 @@ Each module is a standalone HTML file that opens directly in your web browser �
 | 4 | From Measured Collagen to Dietary Source Values | [Slides](https://peterdmarshall01.github.io/ResourcesYork/Module4.html) |
 | 5 | Resources: Worked Examples | [Slides](https://peterdmarshall01.github.io/ResourcesYork/Module5.html) |
 | 6 | Evaluating Dietary Mixing Model Choices | [Slides](https://peterdmarshall01.github.io/ResourcesYork/Module6.html) |
-| 7 | Resources: Full Examples — Varna, Bulgaria | [Slides](https://peterdmarshall01.github.io/ResourcesYork/Module7.html) |
+| 7 | Resources: Full Example — Varna, Bulgaria | [Slides](https://peterdmarshall01.github.io/ResourcesYork/Module7.html) |
 | 8 | Dietary Modelling at Varna: A Methodological Critique | [Slides](https://peterdmarshall01.github.io/ResourcesYork/Module8.html) |
 
 ---
