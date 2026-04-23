@@ -49,7 +49,7 @@ Guided exercises working through mixing model analyses step by step, with annota
 This module moves from the mechanics of source preparation (Module 4) to the critical question of model design: which FRUITS model instance should you choose for a given archaeological context, 
 and what are the consequences of that choice?  We take as our central case study the  dietary modelling in Gaydarska et al. (2025), which applies FRUITS to the Chalcolithic cemetery of Varna, Bulgaria.
 
-**Module 7 — Resources: Full Examples — Varna, Bulgaria**
+**Module 7 — Resources: Full Example — Varna, Bulgaria**
 Complete case study analyses using data from the Varna Chalcolithic cemetery, Bulgaria, demonstrating the full workflow from raw measurements to dietary interpretation.
 
 **Module 8 — Dietary Modelling at Varna: A Methodological Critique — Evaluation and a path forward**
